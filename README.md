@@ -1,6 +1,6 @@
- #Leonardo Kawakami Ishida 
- ##RA: 96678
- ###Universidade Estadual de Maringa
+ # Leonardo Kawakami Ishida 
+ ## RA: 96678
+ ### Universidade Estadual de Maringa
 
 <div align="center">
   <a href="https://github.com/ra96678">
