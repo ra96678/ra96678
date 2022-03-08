@@ -14,7 +14,7 @@
  ##
   
  <div>
-   <a href = "mailto:ra96678@uem.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+   <a href = "mailto:ra96678@uem.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  </div>
   
 
